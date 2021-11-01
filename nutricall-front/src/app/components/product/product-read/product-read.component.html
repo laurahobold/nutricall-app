@@ -1,0 +1,9 @@
+<div class="cards">
+  <mat-card class="card" *ngFor="let product of products" (click)="openModal(product)">
+      <img class="image-style" mat-card-image src="{{product.image_url}}"
+           alt="{{correctName(product.product_name)}}">
+    <mat-card-content>
+      <strong>{{correctName(product.product_name)}}</strong>
+    </mat-card-content>
+  </mat-card>
+</div>
