@@ -1,4 +1,4 @@
-#Nutricall
+# Nutricall
 
 Nutricall é um projeto que tem como objetivo auxiliar os nutricionistas a comparar de maneira rápida a informação nutricional dos alimentos da base do Open Food Facts.
 
@@ -6,7 +6,7 @@ Nutricall é um projeto que tem como objetivo auxiliar os nutricionistas a compa
 ### 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
 
-**Server **
+**Server**
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [Mongoose](https://mongoosejs.com/)
